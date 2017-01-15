@@ -26,7 +26,7 @@ public class CollectionTest {
 		list.add("e");
 		list.add("b");
 		list.add("d");
-		list.add("d");
+		list.add("d11");
 		list.add("23");
 		System.out.println("ArrayList: " + list);
 		return list;
