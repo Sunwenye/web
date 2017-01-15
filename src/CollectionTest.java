@@ -19,6 +19,7 @@ public class CollectionTest {
 	
 	public List<String> ListTest(){
 		list = new ArrayList<String>();
+		String a = "";
 		list.add("a");
 		list.add("c");
 		list.add("z");
@@ -26,7 +27,7 @@ public class CollectionTest {
 		list.add("e");
 		list.add("b");
 		list.add("d");
-		list.add("d11");
+		list.add("d");
 		list.add("23");
 		System.out.println("ArrayList: " + list);
 		return list;
